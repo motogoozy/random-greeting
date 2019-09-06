@@ -6,10 +6,8 @@ random-greeting is a command line application that returns a greeting in differe
 - Clone or download the repository.
 - Once cloned, navigate to folder and run:
 ```bash
-npm install # this downloads packages necessary to run program
+npm install -g # this downloads packages necessary to run program and allows scripts to be run from anywhere in your filesystem
 ```
-
-** use npm install -g to be able to run scripts from anywhere in your filesystem
 
 ## Usage
 
