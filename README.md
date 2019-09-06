@@ -19,7 +19,7 @@ Commands:
 
 Arguments:
   -lang or -l # specifies a language to be returned
-  -o or -options # returns a list of possible language options
+  -options or -o # returns a list of possible language options
 
 Examples:
   greet #Bonjour
